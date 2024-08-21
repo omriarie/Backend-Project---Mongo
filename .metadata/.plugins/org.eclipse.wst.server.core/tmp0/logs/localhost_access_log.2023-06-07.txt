@@ -1,0 +1,14 @@
+127.0.0.1 - - [07/Jun/2023:18:36:00 +0300] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Jun/2023:18:36:01 +0300] "GET /project/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Jun/2023:18:36:01 +0300] "GET /project/style-button.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Jun/2023:18:36:01 +0300] "GET /project/style.css?ver=4.0 HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Jun/2023:18:36:01 +0300] "GET /project/js/jquery-1.7.1.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Jun/2023:18:36:01 +0300] "GET /project/js/registration.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Jun/2023:18:36:01 +0300] "GET /project/img/wait.gif HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Jun/2023:18:36:01 +0300] "GET /project/img/bg-body.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Jun/2023:18:36:01 +0300] "GET /project/style-print.css?ver=1.0 HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Jun/2023:18:36:01 +0300] "GET /project/registration/get_number_of_registred_users?days=5 HTTP/1.1" 200 11
+0:0:0:0:0:0:0:1 - - [07/Jun/2023:18:36:01 +0300] "GET /project/registration/get_all_users HTTP/1.1" 200 107
+0:0:0:0:0:0:0:1 - - [07/Jun/2023:18:36:24 +0300] "POST /project/registration/register_new_customer HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [07/Jun/2023:18:36:43 +0300] "POST /project/registration/validate_user HTTP/1.1" 200 15
+0:0:0:0:0:0:0:1 - - [07/Jun/2023:18:36:50 +0300] "POST /project/registration/validate_user HTTP/1.1" 200 14

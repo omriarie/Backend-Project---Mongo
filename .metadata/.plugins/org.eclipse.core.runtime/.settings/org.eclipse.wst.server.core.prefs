@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimes>\r\n  <runtime id\="apache-tomcat-9.0.71" location\="C\:/Users/ADMIN/Desktop/tomcat/New folder/apache-tomcat-9.0.71" name\="apache-tomcat-9.0.71" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.90" timestamp\="0"/>\r\n  <runtime id\="mongo project apache-tomcat-9.0.71" location\="C\:/Users/ADMIN/Documents/GitHub/Backend-Project---Mongo/apatche/apache-tomcat-9.0.71/apache-tomcat-9.0.71" name\="mongo project apache-tomcat-9.0.71" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.90" timestamp\="0"/>\r\n</runtimes>\r\n
