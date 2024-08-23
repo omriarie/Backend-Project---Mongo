@@ -1,6 +1,6 @@
 # Backend Development for Media Management Website
 
-![Media Management Logo](#)
+![Media Management Logo](mongo.png)
 
 This project involved the development of the backend for a Media Management Website. The frontend and basic structure of the website were pre-existing, and my role focused on implementing the backend functionality using MongoDB. The work included establishing the database connection, creating controllers, and defining the necessary models to manage media items, user data, and interaction history.
 
